@@ -1,0 +1,20 @@
+asignar_paciente llamado con (<personas.Doctor object at 0x000002116BBF8350>, <personas.Paciente object at 0x000002116BBF83D0>), {}
+asignar_paciente llamado con (<personas.Doctor object at 0x0000018829CB8350>, <personas.Paciente object at 0x0000018829CB83D0>), {}
+admitir_paciente llamado con (<hospital.Hospital object at 0x0000025BE564C650>, <personas.Paciente object at 0x0000025BE564D310>), {}
+admitir_paciente llamado con (<hospital.Hospital object at 0x0000025BE564C650>, <personas.Paciente object at 0x0000025BE564C610>), {}
+asignar_paciente llamado con (<personas.Doctor object at 0x0000025BE564C5D0>, <personas.Paciente object at 0x0000025BE564D310>), {}
+asignar_doctor llamado con (<hospital.Hospital object at 0x0000025BE564C650>, <personas.Doctor object at 0x0000025BE564C5D0>, <personas.Paciente object at 0x0000025BE564D310>), {}
+admitir_paciente llamado con (<hospital.Hospital object at 0x0000025BE564C650>, <personas.Paciente object at 0x0000025BE564D310>), {}
+admitir_paciente llamado con (<hospital.Hospital object at 0x0000025BE564C650>, <personas.Paciente object at 0x0000025BE564C610>), {}
+admitir_paciente llamado con (<hospital.Hospital object at 0x0000024F1B98C650>, <personas.Paciente object at 0x0000024F1B98C610>), {}
+admitir_paciente llamado con (<hospital.Hospital object at 0x0000024F1B98C650>, <personas.Paciente object at 0x0000024F1B98C690>), {}
+asignar_paciente llamado con (<personas.Doctor object at 0x0000024F1B98C5D0>, <personas.Paciente object at 0x0000024F1B98C610>), {}
+asignar_doctor llamado con (<hospital.Hospital object at 0x0000024F1B98C650>, <personas.Doctor object at 0x0000024F1B98C5D0>, <personas.Paciente object at 0x0000024F1B98C610>), {}
+admitir_paciente llamado con (<hospital.Hospital object at 0x0000024F1B98C650>, <personas.Paciente object at 0x0000024F1B98C610>), {}
+admitir_paciente llamado con (<hospital.Hospital object at 0x0000024F1B98C650>, <personas.Paciente object at 0x0000024F1B98C690>), {}
+admitir_paciente llamado con (<hospital.Hospital object at 0x000001EEAA7A85D0>, <personas.Paciente object at 0x000001EEAA7A9290>), {}
+admitir_paciente llamado con (<hospital.Hospital object at 0x000001EEAA7A85D0>, <personas.Paciente object at 0x000001EEAA7A8590>), {}
+asignar_paciente llamado con (<personas.Doctor object at 0x000001EEAA7A8550>, <personas.Paciente object at 0x000001EEAA7A9290>), {}
+asignar_doctor llamado con (<hospital.Hospital object at 0x000001EEAA7A85D0>, <personas.Doctor object at 0x000001EEAA7A8550>, <personas.Paciente object at 0x000001EEAA7A9290>), {}
+admitir_paciente llamado con (<hospital.Hospital object at 0x000001EEAA7A85D0>, <personas.Paciente object at 0x000001EEAA7A9290>), {}
+admitir_paciente llamado con (<hospital.Hospital object at 0x000001EEAA7A85D0>, <personas.Paciente object at 0x000001EEAA7A8590>), {}

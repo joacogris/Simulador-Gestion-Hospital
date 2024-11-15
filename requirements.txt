@@ -1,0 +1,10 @@
+# Bibliotecas que recomiendo para posibles extensiones del proyecto
+
+
+
+# Para generación de gráficos y reportes (si decides visualizarlos en el futuro)
+matplotlib==3.4.3
+
+
+# Para mejorar pruebas y verificar estilo de código
+pytest==6.2.5
